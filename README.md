@@ -2,10 +2,10 @@
 
 # 📝 About Me:
 
-- 📄 Currently, I'm a young autodidact that who knows the principal concepts about the programming specially focused on the frontEnd Using Html5, CSS3, JS And React
+- 📄 Currently, I'm a young-self taught that knows the principal concepts about the programming specially focused on the frontEnd Using Html5, CSS3, JS And React
 - 👀 I’m interested in the new technologies and Problems resolution
-- 📏I'm constantly learning the new uses from react and i'm on track to learning NodeJs
-- 👔 I’m looking for job opportunities
+- 📏I constantly learning the new uses of react and I'm on track to learning NodeJs
+- 👔 I looking for job opportunities
 - 📧 You can shoot me an email at deinas.44Remastered@gmail.com! I'll try to respond as soon as I can.
 - 🎸 Fun fact: The SoulsGame is the best Games Saga Ever 
 
