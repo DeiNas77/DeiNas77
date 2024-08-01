@@ -35,10 +35,3 @@
   <a href="https://www.instagram.com/j0rdanw3bst3r/"><img alt="Instagram" title="Jose Medina" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 
-# 🐍 Commits Moment 
-
-<div align="center">
-  <a href="https://github.com/DeiNas77">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
