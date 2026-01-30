@@ -87,7 +87,9 @@ Inventory management system focused on organizing, tracking, and registering ele
 - Collaborative project developed together with [@gabriez](https://github.com/gabriez).
 
 🔗 **Project repository:**  
+Frontend
 [https://github.com/gabriez/](https://github.com/gabriez/inme-frontend)
+Backend
 [https://github.com/gabriez/](https://github.com/gabriez/inme-backend)
 
 ---
