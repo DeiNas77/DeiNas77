@@ -21,7 +21,11 @@
 ## ✍️ **Experience:**
 
 
-### **Sempiternos Solutions**  
+### **Sempiterno Solutions**
+
+*company github*
+[Sempiterno solutions](https://github.com/sempiternosolution)
+
 *Full Stack Developer*  
 **2025 – 2026**
 
